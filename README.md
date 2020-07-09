@@ -12,36 +12,9 @@ Right now, I’m heavily involved in the effort to build **Hanami 2.0**, which r
 
 [**You can ❤️ sponsor me on GitHub**](https://github.com/sponsors/timriley). I do the majority of my open source work as my “second job,” on nights and weekends, and your kind support will help sustain me in all of these efforts. Thank you! 🙏🏼
 
----
-
 ### Current status 👨🏻‍💻
 
 Currently, I'm:
 
 - Integrating actions and views into Hanami 2.0 (watch for PRs in [hanami/hanami](https://github.com/hanami/hanami), [hanami/view](https://github.com/hanami/view) and [hanami/controller](https://github.com/hanami/controller))
 - Planning for the remaining work before we ship Hanami 2.0.0.alpha2
-
----
-
-### Follow me 🔗
-
-I blog about my open source work at [**timriley.info**](https://timriley.info).
-
-Find me on Twitter as [**@timriley**](https://twitter.com/timriley).
-
-You can also get in touch by email at `tim(at)riley(dot)id(dot)au`.
-
-<!--
-**timriley/timriley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
