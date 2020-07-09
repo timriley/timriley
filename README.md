@@ -1,6 +1,6 @@
 ### Hi there! 👋🏼
 
-Hi! I'm Tim. I love Ruby. I've worked with Ruby for nearly 20 years, and even after all this time, it still brings me joy!
+Hi! [I'm Tim](https://timriley.info/). I love Ruby. I've worked with Ruby for nearly 20 years, and even after all this time, it still brings me joy!
 
 **My mission in open source is to ensure the joy of Ruby extends to the experience of writing real, maintainable applications, for teams of all sizes.**
 
