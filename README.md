@@ -16,5 +16,5 @@ Right now, I’m heavily involved in the effort to build **Hanami 2.0**, which r
 
 Currently, I'm:
 
-- Integrating actions and views into Hanami 2.0 (watch for PRs in [hanami/hanami](https://github.com/hanami/hanami), [hanami/view](https://github.com/hanami/view) and [hanami/controller](https://github.com/hanami/controller))
-- Planning for the remaining work before we ship Hanami 2.0.0.alpha2
+- Preparing for the Hanami 2.0.0.alpha2 release! ✨
+- Beginning early investigations of Hanami/dry-system + Zeitwerk
