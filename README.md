@@ -16,5 +16,6 @@ Right now, I’m heavily involved in the effort to build **Hanami 2.0**, which r
 
 Currently, I'm:
 
+- Overhauling dry-system, adding Zeitwerk support and streamlining configuration
+- Beginning early work on adding Zeitwerk support to Hanami 2.0
 - Preparing for the Hanami 2.0.0.alpha2 release! ✨
-- Beginning early investigations of Hanami/dry-system + Zeitwerk
