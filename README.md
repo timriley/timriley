@@ -14,7 +14,7 @@ Right now, I’m heavily involved in the effort to build **Hanami 2.0**, which r
 
 ### Current status 👨🏻‍💻
 
-Currently, I'm:
+Currently (Jan/Feb 2021), I'm:
 
 - Overhauling dry-system, adding Zeitwerk support and streamlining configuration
 - Beginning early work on adding Zeitwerk support to Hanami 2.0
