@@ -22,7 +22,7 @@ Currently (Feb 2021), I'm:
 
 ### Recently
 
-To see what I've been up to recently, check out my series of open source status updates:
+To see what I've been up to recently, check out my series of [open source status updates](https://timriley.info/):
 
 - [January 2021](https://timriley.info/writing/2021/02/01/open-source-status-update-january-2021)
 - [December 2020](https://timriley.info/writing/2021/01/06/open-source-status-update-december-2020)
