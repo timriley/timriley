@@ -14,8 +14,24 @@ Right now, I’m heavily involved in the effort to build **Hanami 2.0**, which r
 
 ### Current status 👨🏻‍💻
 
-Currently (Jan/Feb 2021), I'm:
+Currently (Feb 2021), I'm:
 
-- Overhauling dry-system, adding Zeitwerk support and streamlining configuration
+- Overhauling dry-system, adding Zeitwerk support, and streamlining configuration
 - Beginning early work on adding Zeitwerk support to Hanami 2.0
 - Preparing for the Hanami 2.0.0.alpha2 release! ✨
+
+### Recently
+
+To see what I've been up to recently, see my series open source status updates:
+
+- [January 2021](https://timriley.info/writing/2021/02/01/open-source-status-update-january-2021)
+- [December 2020](https://timriley.info/writing/2021/01/06/open-source-status-update-december-2020)
+- [November 2020](https://timriley.info/writing/2020/12/07/open-source-status-update-november-2020)
+- [October 2020](https://timriley.info/writing/2020/11/03/open-source-status-update-october-2020)
+- [September 2020](https://timriley.info/writing/2020/10/06/open-source-status-update-september-2020)
+- [August 2020](https://timriley.info/writing/2020/08/31/open-source-status-update-august-2020)
+- [July 2020](https://timriley.info/writing/2020/08/03/open-source-status-update-july-2020)
+- [June 2020](https://timriley.info/writing/2020/06/28/open-source-status-update-june-2020)
+- [May 2020](https://timriley.info/writing/2020/06/01/open-source-status-update-may-2020)
+- [April 2020](https://timriley.info/writing/2020/04/30/open-source-status-update-april-2020)
+- [March 2020](https://timriley.info/writing/2020/03/27/open-source-status-update-march-2020)
