@@ -14,16 +14,14 @@ Right now, I’m heavily involved in the effort to build **Hanami 2.0**, which r
 
 ### Current status 👨🏻‍💻
 
-Currently (Feb 2021), I'm:
-
-- Overhauling dry-system, adding Zeitwerk support, and streamlining configuration
-- Beginning early work on adding Zeitwerk support to Hanami 2.0
-- Preparing for the Hanami 2.0.0.alpha2 release! ✨
+Currently (May 2021), I'm working towards the Hanami 2.0.0.alpha3 release, with a focus on eliminating all boilerplate from our generated application code.
 
 ### Recently
 
 To see what I've been up to recently, check out my series of [open source status updates](https://timriley.info/):
 
+- [March & April 2021](https://timriley.info/writing/2021/05/10/open-source-status-update-march-april-2021/)
+- [February 2021](https://timriley.info/writing/2021/03/09/open-source-status-update-february-2021)
 - [January 2021](https://timriley.info/writing/2021/02/01/open-source-status-update-january-2021)
 - [December 2020](https://timriley.info/writing/2021/01/06/open-source-status-update-december-2020)
 - [November 2020](https://timriley.info/writing/2020/12/07/open-source-status-update-november-2020)
