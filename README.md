@@ -20,6 +20,7 @@ Currently (August/September 2021), I'm working towards the Hanami 2.0.0.alpha3 r
 
 To see what I've been up to recently, check out my series of [open source status updates](https://timriley.info/):
 
+- [November 2021](https://timriley.info/writing/2021/12/13/open-source-status-update-november-2021/)
 - [October 2021](https://timriley.info/writing/2021/11/15/open-source-status-update-october-2021/)
 - [September 2021](https://timriley.info/writing/2021/10/11/open-source-status-update-september-2021/)
 - [July & August 2021](https://timriley.info/writing/2021/09/06/open-source-status-update-july-august-2021/)
