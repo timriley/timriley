@@ -14,12 +14,13 @@ Right now, I’m heavily involved in the effort to build **Hanami 2.0**, which r
 
 ### Current status 👨🏻‍💻
 
-Currently (August/September 2021), I'm working towards the Hanami 2.0.0.alpha3 release, with a focus on eliminating all boilerplate from our generated application code.
+Currently (February 2022), I’m working on improving Hanami 2’s slice setup and configuration structure.
 
 ### Recently
 
 To see what I've been up to recently, check out my series of [open source status updates](https://timriley.info/):
 
+- [December 2021 & January 2022](https://timriley.info/writing/2022/02/14/open-source-status-update-december-2021-january-2022/)
 - [November 2021](https://timriley.info/writing/2021/12/13/open-source-status-update-november-2021/)
 - [October 2021](https://timriley.info/writing/2021/11/15/open-source-status-update-october-2021/)
 - [September 2021](https://timriley.info/writing/2021/10/11/open-source-status-update-september-2021/)
