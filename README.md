@@ -14,7 +14,7 @@ Right now, I’m heavily involved in the effort to build **Hanami 2.0**, which r
 
 ### Current status 👨🏻‍💻
 
-Currently (February 2022), I’m working on improving Hanami 2’s slice setup and configuration structure.
+Currently (April 2022), I’m working on improving Hanami 2’s slice setup and configuration structure.
 
 ### Recently
 
