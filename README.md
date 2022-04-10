@@ -20,6 +20,8 @@ Currently (February 2022), I’m working on improving Hanami 2’s slice setup a
 
 To see what I've been up to recently, check out my series of [open source status updates](https://timriley.info/):
 
+- [March 2022](https://timriley.info/writing/2022/04/10/open-source-status-update-march-2022/)
+- [February 2022](https://timriley.info/writing/2022/03/19/open-source-status-update-february-2022/)
 - [December 2021 & January 2022](https://timriley.info/writing/2022/02/14/open-source-status-update-december-2021-january-2022/)
 - [November 2021](https://timriley.info/writing/2021/12/13/open-source-status-update-november-2021/)
 - [October 2021](https://timriley.info/writing/2021/11/15/open-source-status-update-october-2021/)
