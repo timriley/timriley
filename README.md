@@ -1,6 +1,6 @@
 ### Hi there! 👋🏼
 
-Hi! [I’m Tim](https://timriley.info/). I love Ruby. I've worked with Ruby for 20 years, and even after all this time, it still brings me joy!
+Hi! [I’m Tim](https://timriley.info/). I love Ruby. I've worked with Ruby for over 20 years, and even after all this time, it still brings me joy!
 
 **My mission in open source is to ensure the joy of Ruby extends to the experience of writing real, maintainable applications, for teams of all sizes.**
 
@@ -14,7 +14,7 @@ Right now, I’m heavily involved in the effort to build **Hanami 2.0**, which r
 
 ### Current status 👨🏻‍💻
 
-Currently (April 2022), I’m working on improving Hanami 2’s slice setup and configuration structure.
+Currently (August 2022), I’m [working towards](https://trello.com/b/lFifnBti/hanami-20) the first Hanami 2.0 release.
 
 ### Recently
 
