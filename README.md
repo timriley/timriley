@@ -14,12 +14,13 @@ Right now, I’m heavily involved in the effort to build **Hanami 2.0**, which r
 
 ### Current status 👨🏻‍💻
 
-Currently (August 2022), I’m [working towards](https://trello.com/b/lFifnBti/hanami-20) the first Hanami 2.0 release.
+Currently (November 2022), **I’m [working towards](https://trello.com/b/lFifnBti/hanami-20) the Hanami 2.0.0 release, slated for later this month!**
 
 ### Recently
 
 To see what I've been up to recently, check out my series of [open source status updates](https://timriley.info/):
 
+- [September 2022](https://timriley.info/writing/2022/10/20/open-source-status-update-september-2022)
 - [August 2022](https://timriley.info/writing/2022/09/18/open-source-status-update-august-2022/)
 - [May–July 2022](https://timriley.info/writing/2022/08/08/open-source-status-update-may-july-2022/)
 - [April 2022](https://timriley.info/writing/2022/05/15/open-source-status-update-april-2022)
@@ -45,3 +46,7 @@ To see what I've been up to recently, check out my series of [open source status
 - [May 2020](https://timriley.info/writing/2020/06/01/open-source-status-update-may-2020)
 - [April 2020](https://timriley.info/writing/2020/04/30/open-source-status-update-april-2020)
 - [March 2020](https://timriley.info/writing/2020/03/27/open-source-status-update-march-2020)
+
+### Say hi!
+
+Find me on <a rel="me" href="https://ruby.social/@timriley">Mastodon</a>.
