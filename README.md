@@ -46,7 +46,3 @@ To see what I've been up to recently, check out my series of [open source status
 - [May 2020](https://timriley.info/writing/2020/06/01/open-source-status-update-may-2020)
 - [April 2020](https://timriley.info/writing/2020/04/30/open-source-status-update-april-2020)
 - [March 2020](https://timriley.info/writing/2020/03/27/open-source-status-update-march-2020)
-
-### Say hi!
-
-Find me on <a rel="me" href="https://ruby.social/@timriley">Mastodon</a>.
