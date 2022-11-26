@@ -14,7 +14,7 @@ Right now, I’m heavily involved in the effort to build **Hanami 2.0**, which r
 
 ### Current status 👨🏻‍💻
 
-Currently (November 2022), **I’m [working towards](https://trello.com/b/lFifnBti/hanami-20) the Hanami 2.0.0 release, slated for later this month!**
+Currently (November 2022): **[We just released Hanami 2.0!](https://hanamirb.org/blog/2022/11/22/announcing-hanami-200/)**
 
 ### Recently
 
