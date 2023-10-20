@@ -8,18 +8,21 @@ For me, this comes from following a hybrid FP/OOP approach to writing Ruby, and 
 
 I’m a co-founder and core team member of the [**dry-rb**](https://dry-rb.org) project, and a core team member of the [**rom-rb**](https://rom-rb.org) and [**Hanami**](https://hanamirb.org) projects.
 
-Right now, I’m heavily involved in the effort to build **Hanami 2.0**, which represents a new model for Ruby open source collaboration, and will provide a true  _framework of the future_ for Ruby application developers.
+Right now, I’m heavily involved in the effort to build **Hanami v2**, which represents a new model for Ruby open source collaboration, and will provide a true  _framework of the future_ for Ruby application developers.
 
 [**You can ❤️ sponsor me on GitHub**](https://github.com/sponsors/timriley). I do the majority of my open source work as my “second job,” on nights and weekends, and your kind support will help sustain me in all of these efforts. Thank you! 🙏🏼
 
 ### Current status 👨🏻‍💻
 
-Currently (November 2022): **[We just released Hanami 2.0!](https://hanamirb.org/blog/2022/11/22/announcing-hanami-200/)**
+Currently (October 2023): We’re gearing up to release Hanami 2.1.0.
 
 ### Recently
 
 To see what I've been up to recently, check out my series of [open source status updates](https://timriley.info/):
 
+- [September 2023](https://timriley.info/writing/2023/10/20/open-source-status-update-september-2023)
+- [August 2023](https://timriley.info/writing/2023/09/10/open-source-status-update-august-2023)
+- [October 2022–July 2023](https://timriley.info/writing/2023/07/23/open-source-status-update-october-2022-july-2023)
 - [September 2022](https://timriley.info/writing/2022/10/20/open-source-status-update-september-2022)
 - [August 2022](https://timriley.info/writing/2022/09/18/open-source-status-update-august-2022/)
 - [May–July 2022](https://timriley.info/writing/2022/08/08/open-source-status-update-may-july-2022/)
